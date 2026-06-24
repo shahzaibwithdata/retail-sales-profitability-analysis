@@ -97,8 +97,12 @@ DIVIDE(
 •	Product category performance changes across years.
 •	Sales trends show seasonal fluctuations throughout the year. 
 
+## Dataset
+
+Dataset: Microsoft Contoso Retail Sales Sample Dataset
 
 ## Author
 Shahzaib Ali
+
 Data Analyst | SQL | Power BI
 
