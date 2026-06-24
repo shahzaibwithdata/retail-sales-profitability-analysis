@@ -92,9 +92,13 @@ DIVIDE(
 
 ## Business Insights
 •	Store channel generates the highest sales.
+
 •	Computers consistently contribute the largest share of sales and profit.
+
 •	The United States is the most profitable region.
+
 •	Product category performance changes across years.
+
 •	Sales trends show seasonal fluctuations throughout the year. 
 
 ## Dataset
